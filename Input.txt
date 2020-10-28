@@ -1,0 +1,22 @@
+Choose your approach: (type 0 for Strength of Material Approach / 1 for Elasticity Approcah / 2 for Semi-Empirical Approach)
+_______
+0
+
+S1t(psi)      S2t(psi) S1c(psi)       S2c(psi)       Ss(psi)
+__________________________________________________________________
+1             1        1              1              1
+
+Del_C(%)  Del_T(F)
+_____________________
+0         100
+
+Nx(lb/in)     Ny(lb/in)    Nxy(lb/in)    Mx(lb/in)    My(lb/in)    Mxy(lb/in)
+______________________________________________________________________________
+0            0             0    	     0      	  0	           0
+
+*write theta in degrees
+*Leave ξ as 0 if you are not using semi-empirical approach
+
+theta   thickness(m)   Ef(Msi)      Em(Msi)        Gf(Msi)   Gm(Msi)   vf    vm    Vf      Alpha_f(1/F)    Alpha_m(1/F)    Beta_1   Beta_2   ξ  
+__________________________________________________________________________________________________________________________________________________
+0       1.3211091e-5   72400000000  2500000000     3.6e+10   2.24e+9   0.23  0.3   0.45    5e-6            55e-6           0        0.6      2

@@ -1,0 +1,30 @@
+23-Jul-2020 17:09:18
+Results for [ 0 ] Laminate:
+
+Approach Chosen:
+Strength of Material Approach
+
+Effective Moduli of Laminate:
+Ex(psi)         Ey(psi)         Gxy(psi)        vxy
++3.395500e+10 	+4.420564e+09 	+3.875433e+09 	+2.685000e-01
+
+Nbar(lb/in)      N(lb/in)        NT(lb/in)       NH(lb/in)
++3.817462e+02 	 +0.000000e+00 	 +3.817462e+02 	 +0.000000e+00
++2.481513e+02 	 +0.000000e+00 	 +2.481513e+02 	 +0.000000e+00
++0.000000e+00 	 +0.000000e+00 	 +0.000000e+00 	 +0.000000e+00
+
+Failure Test Results:
+
+Ply 	 Tsai-Hill 	     Max-Stress  	 Max-Strain  	 Tsai-Wu
+ 0 	 Passed 		 Passed 		 Passed 		 Passed
+ 
+Strength Ratios:
+
+Ply  Max Stress/Strain   Tsai-Wu             Tsai-Hill
+
+Ply  Upper strain(in/in) Mid sttrain(in/in)  Lower strain(in/in) Upper stress(psi)   Mid stress(psi)     Lower stress(psi)
+
+1 	 +0.000000e+00    	 +0.000000e+00   	 +0.000000e+00   	 +0.000000e+00   	 +0.000000e+00   	 +0.000000e+00
+1 	 +0.000000e+00    	 +0.000000e+00   	 +0.000000e+00   	 +0.000000e+00   	 +0.000000e+00   	 +0.000000e+00
+1 	 +0.000000e+00    	 +0.000000e+00   	 +0.000000e+00   	 +0.000000e+00   	 +0.000000e+00   	 +0.000000e+00
+
