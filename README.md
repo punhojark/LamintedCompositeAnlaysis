@@ -1,2 +1,13 @@
-# LamintedCompositeAnlaysis
-Behavioral/structural analysis of laminated composite using Classical Lamination Theory using MATLAB
+## Structural Analysis Tool for Laminated Composites
+> Authors: Junho Park (parkjunho0624@gmail.com)
+
+Predicted and modeled mechanical behaviors of different composite structures (i.e. glass-epoxy) using Classical Lamination Theory and different failture criteria such as Tsai-Hill and Tsai-Wu failure criteria. 
+
+Objectives:
+* Calculate the stress-strain values of composite structures under certain thermomechanical loading (elongation, compression, thermal load)
+* Calculate the failure indexes (Tsai-Wu and Tsai-Hill) of composites under thermomechanical loading
+
+## How-To-Use
+1. Use 'Input.txt' to input material characteristics (i.e. thickness, E, G, poisson's ration etc.) and thermomechancial loading situation and save it. 
+2. Run 'Laminate_Analysis.m'
+3. Check 'Output.txt' file to check for appropriate values.
